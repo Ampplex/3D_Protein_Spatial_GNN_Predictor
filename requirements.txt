@@ -1,0 +1,7 @@
+streamlit
+py3Dmol
+torch
+torch_geometric
+biopython
+numpy
+requests
